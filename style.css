@@ -1,6 +1,12 @@
 body {
-    background: black;
-    color: white;
+    background: rgb(184, 156, 213);
+    color : black rgp (204, 120, 235);
+    margin : 0px ; [
+        font family:"Poppins", sans-serif;
+}
+
+header{
+    border-bottom: solid 2px #ee118b;
 }
 
 section {
@@ -14,3 +20,41 @@ section {
 .chamada-texto {
     margin-right: 20px;
 } 
+
+h1{
+    margin-right: 20px;
+    }
+
+    h1{
+        margin-right: 40px;
+
+    }
+    p{
+        font-size: 20px;
+
+    }
+
+
+.categoria_videos {
+    display: fles;
+    overflow-x: auto;
+    gap:10px;
+}
+.categoria }
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top:50px;
+}
+
+.categoria-videos img{
+    opacity: 0.5;
+    height 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 5px#ec0685d7;
+}
+.categoria h2 {
+    color: rgp(42, 122, 228);
+}
